@@ -1,0 +1,4 @@
+requests==2.22.0
+matplotlib==3.3.0
+numpy==1.18.5
+opencv-contrib-python==4.0.0
